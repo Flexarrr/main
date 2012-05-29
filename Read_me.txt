@@ -1,0 +1,1 @@
+Enter a text into the blank field and  push the button "Прочитать текст". Then you will listen your text. You can save this record if you push the button "Сохранить файл".
